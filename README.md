@@ -1,5 +1,5 @@
 /**	Your program must compile and run to get credit. 
- # Name : Your First and Last Name
+ # Name : John,
 
 # Class: CSET 1200
 

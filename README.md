@@ -1,9 +1,14 @@
-# GroupProject
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/**	Your program must compile and run to get credit. 
+ # Name : Your First and Last Name
+
+# Class: CSET 1200
+
+# Instructor: Dr. Jared Oluoch
+
+# Group Project 
+
+ # Date: 
+ *  **/: 
 package groupprojectcset;
 import java.util.Scanner;
 
